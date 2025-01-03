@@ -21,7 +21,7 @@ body{
     position: relative;
     object-fit: cover;
     margin-bottom: 10vh;
-    background-image: url(images/main.avif);
+    background-image: url(resources/main.avif);
 }
 .nav{
     display: flex;
